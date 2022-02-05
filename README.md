@@ -1,8 +1,8 @@
 - ABOUT ME :---
 - 👋 Hi, I’m @singhxsurbhi
-- 👀 I’m interested in web development and open source.
+- 👀 I’m interested in open source.
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on projects on web dev
+- 💞️ I’m looking to collaborate on projects on web development
 - 📫 How to reach me singhxsurbhi@gmail.com
 
 <!---
